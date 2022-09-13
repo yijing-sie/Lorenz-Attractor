@@ -38,7 +38,8 @@ Critical point | Mean | Variance | Standard Deviation
 <p>
   <img src="freq_blue_critical_point.png" width="700" />
 </p>
-5.The histogram displaying the frequency of the total number of time steps the simulated Lorenz attractors took while circling the critical point at (–8.49, –8.49, 27) 
+
+5. The histogram displaying the frequency of the total number of time steps the simulated Lorenz attractors took while circling the critical point at (–8.49, –8.49, 27) 
 <p>
   <img src="freq_pruple_critical_point.png" width="700" />
 </p>
